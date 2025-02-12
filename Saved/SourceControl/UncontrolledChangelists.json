@@ -6,6 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/sibelle.bergier/Downloads/WS_Player_Guidance_Intro/Content/map_Snow.umap",
+				"C:/Users/sibelle.bergier/Downloads/WS_Player_Guidance_Intro/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/sibelle.bergier/Downloads/WS_Player_Guidance_Intro/Content/HDRISky/HdrOutdoorSnowMountainsEveningClear001_HDR_4K.uasset",
+				"C:/Users/sibelle.bergier/Downloads/WS_Player_Guidance_Intro/Content/HDRISky/moonless_golf_4k.uasset",
+				"C:/Users/sibelle.bergier/Downloads/WS_Player_Guidance_Intro/Content/HDRISky/rogland_clear_night_4k.uasset",
+				"C:/Users/sibelle.bergier/Downloads/WS_Player_Guidance_Intro/Content/HDRISky/satara_night_no_lamps_4k.uasset",
 				"D:/05.TUTORIAUX/KoolaSnow/Content/speedtree/spruce/BlueSpruceBark_Tex.uasset",
 				"D:/05.TUTORIAUX/KoolaSnow/Content/speedtree/spruce/BlueSpruce_Desktop_Winter_Atlas_Tex.uasset",
 				"D:/05.TUTORIAUX/KoolaSnow/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
