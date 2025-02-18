@@ -1,29 +1,11 @@
-[0217/135132.963:ERROR:entry_impl.cc(1075)] No file for 800001bc
-[0217/135132.963:ERROR:entry_impl.cc(1075)] No file for 800001ba
-[0217/135132.963:ERROR:entry_impl.cc(1075)] No file for 800001b5
-[0217/135132.969:ERROR:entry_impl.cc(1075)] No file for 800001bb
-[0217/135132.969:ERROR:entry_impl.cc(1075)] No file for 800001b6
-[0217/135132.971:ERROR:entry_impl.cc(1075)] No file for 800001b3
-[0217/135132.971:ERROR:entry_impl.cc(1075)] No file for 800001b7
-[0217/135132.971:ERROR:entry_impl.cc(1075)] No file for 800001b4
-[0217/135133.007:ERROR:entry_impl.cc(1075)] No file for 800001b8
-[0217/135133.007:ERROR:entry_impl.cc(1075)] No file for 800001c0
-[0217/135133.007:ERROR:entry_impl.cc(1075)] No file for 800001be
-[0217/135133.007:ERROR:entry_impl.cc(1075)] No file for 800001bf
-[0217/135133.007:ERROR:entry_impl.cc(1075)] No file for 800001bd
-[0217/135133.010:ERROR:entry_impl.cc(1075)] No file for 800001c3
-[0217/135133.010:ERROR:entry_impl.cc(1075)] No file for 800001c1
-[0217/135133.021:ERROR:entry_impl.cc(1075)] No file for 800001c2
-[0217/135133.029:ERROR:entry_impl.cc(1075)] No file for 800001b9
-[0217/135133.029:ERROR:entry_impl.cc(1075)] No file for 800001c7
-[0217/135133.029:ERROR:entry_impl.cc(1075)] No file for 800001c6
-[0217/135133.038:ERROR:entry_impl.cc(1075)] No file for 800001c4
-[0217/135133.039:ERROR:entry_impl.cc(1075)] No file for 800001c5
-[0217/135133.039:ERROR:entry_impl.cc(1075)] No file for 800001cb
-[0217/135133.039:ERROR:entry_impl.cc(1075)] No file for 800001ca
-[0217/135133.041:ERROR:entry_impl.cc(1075)] No file for 800001c9
-[0217/135133.041:ERROR:entry_impl.cc(1075)] No file for 800001c8
-[0217/135133.048:ERROR:entry_impl.cc(1075)] No file for 800001cd
-[0217/135133.049:ERROR:entry_impl.cc(1075)] No file for 800001cc
-[0217/135133.745:ERROR:entry_impl.cc(1075)] No file for 800001af
-[0217/135238.738:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0218/140733.124:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0218/140733.482:WARNING:backend_impl.cc(1837)] Destroying invalid entry.
+[0218/140733.482:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0218/140733.654:WARNING:storage_block-inl.h(146)] Failed data load.
+[0218/140733.654:WARNING:storage_block-inl.h(146)] Failed data load.
+[0218/140733.654:WARNING:storage_block-inl.h(146)] Failed data load.
+[0218/140733.655:WARNING:storage_block-inl.h(146)] Failed data load.
+[0218/140733.656:ERROR:entry_impl.cc(998)] Failed to save user data
+[0218/140733.656:ERROR:entry_impl.cc(998)] Failed to save user data
+[0218/140735.951:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0218/140933.290:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled

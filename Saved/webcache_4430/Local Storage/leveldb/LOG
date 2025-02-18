@@ -1,3 +1,2 @@
-2025/02/17-13:50:40.981 1258 Reusing MANIFEST C:/Users/sibelle.bergier/Downloads/WS_Player_Guidance_Intro/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2025/02/17-13:50:40.991 1258 Recovering log #3
-2025/02/17-13:50:41.000 1258 Reusing old log C:/Users/sibelle.bergier/Downloads/WS_Player_Guidance_Intro/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2025/02/18-14:07:33.226 45cc Creating DB C:/Users/Jay/Documents/GitHub/PlayerGuidanceLaurentV2/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2025/02/18-14:07:33.239 45cc Reusing MANIFEST C:/Users/Jay/Documents/GitHub/PlayerGuidanceLaurentV2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
