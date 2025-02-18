@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/diego/Documents/GitHub/PlayerGuidanceLaurentV2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/diego/Documents/GitHub/PlayerGuidanceLaurentV2/Content/map_Snow.umap",
+				"C:/Users/diego/Documents/GitHub/PlayerGuidanceLaurentV2/Content/speedtree/spruce/BlueSpruce_Desktop_Winter2_FoliageType.uasset",
+				"C:/Users/diego/Documents/GitHub/PlayerGuidanceLaurentV2/Content/speedtree/spruce/BlueSpruce_Desktop_Winter3_FoliageType.uasset",
+				"C:/Users/diego/Documents/GitHub/PlayerGuidanceLaurentV2/Content/speedtree/spruce/BlueSpruce_Desktop_Winter_FoliageType.uasset",
 				"C:/Users/sibelle.bergier/Downloads/WS_Player_Guidance_Intro/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/sibelle.bergier/Downloads/WS_Player_Guidance_Intro/Content/Flashlight/SM_Flashlight.uasset",
 				"C:/Users/sibelle.bergier/Downloads/WS_Player_Guidance_Intro/Content/Flashlight/Material/flashlight_BaseColor.uasset",
