@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/maria.marks/Documents/GitHub/PlayerGuidanceLaurentV2/Content/map_Snow.umap",
+				"C:/Users/maria.marks/Documents/GitHub/PlayerGuidanceLaurentV2/Content/BluePrints/DecalOverSpline.uasset",
+				"C:/Users/maria.marks/Documents/GitHub/PlayerGuidanceLaurentV2/Content/01_More_assets/footprint02_Inst.uasset",
+				"C:/Users/maria.marks/Documents/GitHub/PlayerGuidanceLaurentV2/Content/01_More_assets/Footprints/Multiple_Footsteps/footprintTray.uasset",
+				"C:/Users/maria.marks/Documents/GitHub/PlayerGuidanceLaurentV2/Content/01_More_assets/Footprints/Multiple_Footsteps/T_ujrlcfrr_1K_N.uasset",
 				"D:/Unreal_engine/UE_5.4/Engine/Content/BasicShapes/BasicShapeMaterial_Inst.uasset",
 				"D:/Unreal_engine/UE_5.4/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
 				"C:/Users/sibelle.bergier/Downloads/WS_Player_Guidance_Intro/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",

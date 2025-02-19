@@ -1,11 +1,10 @@
-[0218/140733.124:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[0218/140733.482:WARNING:backend_impl.cc(1837)] Destroying invalid entry.
-[0218/140733.482:ERROR:backend_impl.cc(1041)] Critical error found -8
-[0218/140733.654:WARNING:storage_block-inl.h(146)] Failed data load.
-[0218/140733.654:WARNING:storage_block-inl.h(146)] Failed data load.
-[0218/140733.654:WARNING:storage_block-inl.h(146)] Failed data load.
-[0218/140733.655:WARNING:storage_block-inl.h(146)] Failed data load.
-[0218/140733.656:ERROR:entry_impl.cc(998)] Failed to save user data
-[0218/140733.656:ERROR:entry_impl.cc(998)] Failed to save user data
-[0218/140735.951:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0218/140933.290:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0219/153752.876:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0219/153752.888:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0219/153808.493:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0219/153808.493:ERROR:cache_util.cc(144)] Unable to move cache folder C:/Users/maria.marks/Documents/GitHub/PlayerGuidanceLaurentV2/Saved/webcache_4430\Cache to C:/Users/maria.marks/Documents/GitHub/PlayerGuidanceLaurentV2/Saved/webcache_4430\old_Cache_000
+[0219/153808.493:ERROR:disk_cache.cc(184)] Unable to create cache
+[0219/153809.617:ERROR:entry_impl.cc(1075)] No file for 80000001
+[0219/153820.267:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0219/153825.268:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0219/153832.972:ERROR:entry_impl.cc(1075)] No file for 80000027
+[0219/153953.223:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
